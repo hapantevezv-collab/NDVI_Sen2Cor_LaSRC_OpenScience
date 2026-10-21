@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="481.889764pt" height="677.622047pt" viewBox="0 0 481.889764 677.622047" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-15T21:43:24.732211</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 677.622047 
+L 481.889764 677.622047 
+L 481.889764 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 130.393701 8.503937 
+L 211.653543 8.503937 
+L 211.653543 48.188976 
+L 130.393701 48.188976 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff; stroke: #2f72b5; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 211.653543 8.503937 
+L 292.913386 8.503937 
+L 292.913386 48.188976 
+L 211.653543 48.188976 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff; stroke: #4d913f; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 292.913386 8.503937 
+L 374.173228 8.503937 
+L 374.173228 48.188976 
+L 292.913386 48.188976 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff; stroke: #747c83; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 130.393701 59.527559 
+L 374.173228 59.527559 
+L 374.173228 118.488189 
+L 130.393701 118.488189 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff; stroke: #747c83; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 130.393701 59.527559 
+L 374.173228 59.527559 
+L 374.173228 76.535433 
+L 130.393701 76.535433 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #d7e9f6; stroke: #747c83; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 130.393701 76.535433 
+L 374.173228 76.535433 
+L 374.173228 118.488189 
+L 130.393701 118.488189 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 138.330709 100.346457 
+L 208.251969 100.346457 
+Q 210.519685 100.346457 210.519685 102.614173 
+L 210.519685 112.251969 
+Q 210.519685 114.519685 208.251969 114.519685 
+L 138.330709 114.519685 
+Q 136.062992 114.519685 136.062992 112.251969 
+L 136.062992 102.614173 
+Q 136.062992 100.346457 138.330709 100.346457 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #edf4fb; stroke: #2f72b5; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 217.322835 100.346457 
+L 287.244094 100.346457 
+Q 289.511811 100.346457 289.511811 102.614173 
+L 289.511811 112.251969 
+Q 289.511811 114.519685 287.244094 114.519685 
+L 217.322835 114.519685 
+Q 215.055118 114.519685 215.055118 112.251969 
+L 215.055118 102.614173 
+Q 215.055118 100.346457 217.322835 100.346457 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #eef6ea; stroke: #4d913f; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 296.314961 100.346457 
+L 366.23622 100.346457 
+Q 368.503937 100.346457 368.503937 102.614173 
+L 368.503937 112.251969 
+Q 368.503937 114.519685 366.23622 114.519685 
+L 296.314961 114.519685 
+Q 294.047244 114.519685 294.047244 112.251969 
+L 294.047244 102.614173 
+Q 294.047244 100.346457 296.314961 100.346457 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #fcf0e4; stroke: #cf7921; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 130.393701 129.826772 
+L 374.173228 129.826772 
+L 374.173228 195.023622 
+L 130.393701 195.023622 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff; stroke: #747c83; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 130.393701 129.826772 
+L 374.173228 129.826772 
+L 374.173228 146.834646 
+L 130.393701 146.834646 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f6e7b3; stroke: #747c83; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 136.062992 152.503937 
+L 211.086614 152.503937 
+L 211.086614 189.354331 
+L 136.062992 189.354331 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #edf4fb; stroke: #c7ccd0; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 136.062992 152.503937 
+L 211.086614 152.503937 
+L 211.086614 164.692913 
+L 136.062992 164.692913 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #2f72b5"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 214.771654 152.503937 
+L 289.795276 152.503937 
+L 289.795276 189.354331 
+L 214.771654 189.354331 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #eef6ea; stroke: #c7ccd0; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 214.771654 152.503937 
+L 289.795276 152.503937 
+L 289.795276 164.692913 
+L 214.771654 164.692913 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #4d913f"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 293.480315 152.503937 
+L 368.503937 152.503937 
+L 368.503937 189.354331 
+L 293.480315 189.354331 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #fcf0e4; stroke: #c7ccd0; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 293.480315 152.503937 
+L 368.503937 152.503937 
+L 368.503937 164.692913 
+L 293.480315 164.692913 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #cf7921"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 130.393701 206.362205 
+L 374.173228 206.362205 
+L 374.173228 284.314961 
+L 130.393701 284.314961 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff; stroke: #747c83; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 130.393701 206.362205 
+L 374.173228 206.362205 
+L 374.173228 223.370079 
+L 130.393701 223.370079 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f6e7b3; stroke: #747c83; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 136.062992 229.03937 
+L 211.086614 229.03937 
+L 211.086614 266.173228 
+L 136.062992 266.173228 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #edf4fb; stroke: #c7ccd0; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 136.062992 229.03937 
+L 211.086614 229.03937 
+L 211.086614 241.228346 
+L 136.062992 241.228346 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #2f72b5"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 214.771654 229.03937 
+L 289.795276 229.03937 
+L 289.795276 266.173228 
+L 214.771654 266.173228 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #eef6ea; stroke: #c7ccd0; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 214.771654 229.03937 
+L 289.795276 229.03937 
+L 289.795276 241.228346 
+L 214.771654 241.228346 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #4d913f"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 293.480315 229.03937 
+L 368.503937 229.03937 
+L 368.503937 266.173228 
+L 293.480315 266.173228 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #fcf0e4; stroke: #c7ccd0; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 293.480315 229.03937 
+L 368.503937 229.03937 
+L 368.503937 241.228346 
+L 293.480315 241.228346 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #cf7921"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 136.062992 268.440945 
+L 368.503937 268.440945 
+L 368.503937 278.645669 
+L 136.062992 278.645669 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 130.393701 295.653543 
+L 374.173228 295.653543 
+L 374.173228 377.433071 
+L 130.393701 377.433071 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff; stroke: #747c83; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 130.393701 295.653543 
+L 374.173228 295.653543 
+L 374.173228 312.661417 
+L 130.393701 312.661417 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f6e7b3; stroke: #747c83; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 136.062992 315.496063 
+L 368.503937 315.496063 
+L 368.503937 325.84252 
+L 136.062992 325.84252 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 136.062992 326.409449 
+L 211.086614 326.409449 
+L 211.086614 359.574803 
+L 136.062992 359.574803 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #edf4fb; stroke: #c7ccd0; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 136.062992 326.409449 
+L 211.086614 326.409449 
+L 211.086614 338.598425 
+L 136.062992 338.598425 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #2f72b5"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 214.771654 326.409449 
+L 289.795276 326.409449 
+L 289.795276 359.574803 
+L 214.771654 359.574803 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #eef6ea; stroke: #c7ccd0; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 214.771654 326.409449 
+L 289.795276 326.409449 
+L 289.795276 338.598425 
+L 214.771654 338.598425 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #4d913f"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 293.480315 326.409449 
+L 368.503937 326.409449 
+L 368.503937 359.574803 
+L 293.480315 359.574803 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #fcf0e4; stroke: #c7ccd0; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 293.480315 326.409449 
+L 368.503937 326.409449 
+L 368.503937 338.598425 
+L 293.480315 338.598425 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #cf7921"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 136.062992 361.559055 
+L 368.503937 361.559055 
+L 368.503937 371.76378 
+L 136.062992 371.76378 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 130.393701 388.771654 
+L 374.173228 388.771654 
+L 374.173228 441.779528 
+L 130.393701 441.779528 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff; stroke: #747c83; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 130.393701 388.771654 
+L 374.173228 388.771654 
+L 374.173228 405.779528 
+L 130.393701 405.779528 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #dcefd8; stroke: #747c83; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 136.062992 408.614173 
+L 248.031496 408.614173 
+L 248.031496 438.944882 
+L 136.062992 438.944882 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 256.535433 408.614173 
+L 368.503937 408.614173 
+L 368.503937 438.944882 
+L 256.535433 438.944882 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 130.393701 453.11811 
+L 374.173228 453.11811 
+L 374.173228 510.377953 
+L 130.393701 510.377953 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff; stroke: #747c83; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_43">
+    <path d="M 130.393701 453.11811 
+L 374.173228 453.11811 
+L 374.173228 470.125984 
+L 130.393701 470.125984 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #e8dcf5; stroke: #747c83; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_44">
+    <path d="M 136.062992 472.96063 
+L 248.031496 472.96063 
+L 248.031496 507.543307 
+L 136.062992 507.543307 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 256.535433 472.96063 
+L 368.503937 472.96063 
+L 368.503937 507.543307 
+L 256.535433 507.543307 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_46">
+    <path d="M 130.393701 521.716535 
+L 374.173228 521.716535 
+L 374.173228 584.645669 
+L 130.393701 584.645669 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff; stroke: #747c83; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_47">
+    <path d="M 130.393701 521.716535 
+L 374.173228 521.716535 
+L 374.173228 538.724409 
+L 130.393701 538.724409 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #e8dcf5; stroke: #747c83; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_48">
+    <path d="M 136.062992 542.976378 
+L 249.448819 542.976378 
+L 249.448819 580.393701 
+L 136.062992 580.393701 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #faf8fd; stroke: #c8c4d0; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_49">
+    <path d="M 255.11811 542.976378 
+L 368.503937 542.976378 
+L 368.503937 580.393701 
+L 255.11811 580.393701 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #fff7f7; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #c53c3c; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_50">
+    <path d="M 130.393701 595.984252 
+L 374.173228 595.984252 
+L 374.173228 640.771654 
+L 130.393701 640.771654 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff; stroke: #747c83; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_51">
+    <path d="M 130.393701 595.984252 
+L 374.173228 595.984252 
+L 374.173228 612.992126 
+L 130.393701 612.992126 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #d8e0e8; stroke: #747c83; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_52">
+    <path d="M 136.062992 615.826772 
+L 248.031496 615.826772 
+L 248.031496 637.937008 
+L 136.062992 637.937008 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_53">
+    <path d="M 256.535433 615.826772 
+L 368.503937 615.826772 
+L 368.503937 637.937008 
+L 256.535433 637.937008 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_54">
+    <path d="M 17.291339 78.23622 
+L 110.834646 78.23622 
+L 110.834646 108.850394 
+L 17.291339 108.850394 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #fafbfc; stroke: #c5cbd0; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_55">
+    <path d="M 15.023622 75.968504 
+L 108.566929 75.968504 
+L 108.566929 106.582677 
+L 15.023622 106.582677 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f7f9fa; stroke: #b7bec4; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_56">
+    <path d="M 12.755906 73.700787 
+L 106.299213 73.700787 
+L 106.299213 104.314961 
+L 12.755906 104.314961 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f8f9fa; stroke: #7d858c; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_57">
+    <path d="M 8.503937 64.629921 
+L 65.19685 64.629921 
+L 65.19685 73.133858 
+L 8.503937 73.133858 
+L 8.503937 64.629921 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: none"/>
+   </g>
+   <g id="patch_58">
+    <path d="M 17.291339 151.653543 
+L 110.834646 151.653543 
+L 110.834646 182.267717 
+L 17.291339 182.267717 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #fafbfc; stroke: #c5cbd0; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_59">
+    <path d="M 15.023622 149.385827 
+L 108.566929 149.385827 
+L 108.566929 180 
+L 15.023622 180 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f7f9fa; stroke: #b7bec4; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_60">
+    <path d="M 12.755906 147.11811 
+L 106.299213 147.11811 
+L 106.299213 177.732283 
+L 12.755906 177.732283 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f8f9fa; stroke: #7d858c; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_61">
+    <path d="M 8.503937 138.047244 
+L 65.19685 138.047244 
+L 65.19685 146.551181 
+L 8.503937 146.551181 
+L 8.503937 138.047244 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: none"/>
+   </g>
+   <g id="patch_62">
+    <path d="M 17.291339 234.566929 
+L 110.834646 234.566929 
+L 110.834646 265.181102 
+L 17.291339 265.181102 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #fafbfc; stroke: #c5cbd0; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_63">
+    <path d="M 15.023622 232.299213 
+L 108.566929 232.299213 
+L 108.566929 262.913386 
+L 15.023622 262.913386 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f7f9fa; stroke: #b7bec4; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_64">
+    <path d="M 12.755906 230.031496 
+L 106.299213 230.031496 
+L 106.299213 260.645669 
+L 12.755906 260.645669 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f8f9fa; stroke: #7d858c; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_65">
+    <path d="M 8.503937 220.96063 
+L 65.19685 220.96063 
+L 65.19685 229.464567 
+L 8.503937 229.464567 
+L 8.503937 220.96063 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: none"/>
+   </g>
+   <g id="patch_66">
+    <path d="M 17.291339 325.771654 
+L 110.834646 325.771654 
+L 110.834646 356.385827 
+L 17.291339 356.385827 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #fafbfc; stroke: #c5cbd0; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_67">
+    <path d="M 15.023622 323.503937 
+L 108.566929 323.503937 
+L 108.566929 354.11811 
+L 15.023622 354.11811 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f7f9fa; stroke: #b7bec4; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_68">
+    <path d="M 12.755906 321.23622 
+L 106.299213 321.23622 
+L 106.299213 351.850394 
+L 12.755906 351.850394 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f8f9fa; stroke: #7d858c; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_69">
+    <path d="M 8.503937 312.165354 
+L 65.19685 312.165354 
+L 65.19685 320.669291 
+L 8.503937 320.669291 
+L 8.503937 312.165354 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: none"/>
+   </g>
+   <g id="patch_70">
+    <path d="M 17.291339 404.503937 
+L 110.834646 404.503937 
+L 110.834646 435.11811 
+L 17.291339 435.11811 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #fafbfc; stroke: #c5cbd0; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_71">
+    <path d="M 15.023622 402.23622 
+L 108.566929 402.23622 
+L 108.566929 432.850394 
+L 15.023622 432.850394 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f7f9fa; stroke: #b7bec4; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_72">
+    <path d="M 12.755906 399.968504 
+L 106.299213 399.968504 
+L 106.299213 430.582677 
+L 12.755906 430.582677 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f8f9fa; stroke: #7d858c; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_73">
+    <path d="M 8.503937 390.897638 
+L 65.19685 390.897638 
+L 65.19685 399.401575 
+L 8.503937 399.401575 
+L 8.503937 390.897638 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: none"/>
+   </g>
+   <g id="patch_74">
+    <path d="M 17.291339 470.976378 
+L 110.834646 470.976378 
+L 110.834646 501.590551 
+L 17.291339 501.590551 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #fafbfc; stroke: #c5cbd0; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_75">
+    <path d="M 15.023622 468.708661 
+L 108.566929 468.708661 
+L 108.566929 499.322835 
+L 15.023622 499.322835 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f7f9fa; stroke: #b7bec4; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_76">
+    <path d="M 12.755906 466.440945 
+L 106.299213 466.440945 
+L 106.299213 497.055118 
+L 12.755906 497.055118 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f8f9fa; stroke: #7d858c; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_77">
+    <path d="M 8.503937 457.370079 
+L 65.19685 457.370079 
+L 65.19685 465.874016 
+L 8.503937 465.874016 
+L 8.503937 457.370079 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: none"/>
+   </g>
+   <g id="patch_78">
+    <path d="M 17.291339 542.409449 
+L 110.834646 542.409449 
+L 110.834646 573.023622 
+L 17.291339 573.023622 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #fafbfc; stroke: #c5cbd0; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_79">
+    <path d="M 15.023622 540.141732 
+L 108.566929 540.141732 
+L 108.566929 570.755906 
+L 15.023622 570.755906 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f7f9fa; stroke: #b7bec4; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_80">
+    <path d="M 12.755906 537.874016 
+L 106.299213 537.874016 
+L 106.299213 568.488189 
+L 12.755906 568.488189 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f8f9fa; stroke: #7d858c; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_81">
+    <path d="M 8.503937 528.80315 
+L 65.19685 528.80315 
+L 65.19685 537.307087 
+L 8.503937 537.307087 
+L 8.503937 528.80315 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: none"/>
+   </g>
+   <g id="patch_82">
+    <path d="M 17.291339 610.440945 
+L 110.834646 610.440945 
+L 110.834646 635.385827 
+L 17.291339 635.385827 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #fafbfc; stroke: #c5cbd0; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_83">
+    <path d="M 15.023622 608.173228 
+L 108.566929 608.173228 
+L 108.566929 633.11811 
+L 15.023622 633.11811 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f7f9fa; stroke: #b7bec4; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_84">
+    <path d="M 12.755906 605.905512 
+L 106.299213 605.905512 
+L 106.299213 630.850394 
+L 12.755906 630.850394 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #f8f9fa; stroke: #7d858c; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_85">
+    <path d="M 8.503937 596.834646 
+L 65.19685 596.834646 
+L 65.19685 605.338583 
+L 8.503937 605.338583 
+L 8.503937 596.834646 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: none"/>
+   </g>
+   <g id="patch_86">
+    <path d="M 397.417323 59.527559 
+L 407.622047 59.527559 
+Q 411.023622 59.527559 411.023622 62.929134 
+L 411.023622 191.622047 
+Q 411.023622 195.023622 407.622047 195.023622 
+L 397.417323 195.023622 
+Q 394.015748 195.023622 394.015748 191.622047 
+L 394.015748 62.929134 
+Q 394.015748 59.527559 397.417323 59.527559 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #2f72b5; stroke: #2f72b5; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_87">
+    <path d="M 418.110236 59.527559 
+L 428.314961 59.527559 
+Q 431.716535 59.527559 431.716535 62.929134 
+L 431.716535 374.031496 
+Q 431.716535 377.433071 428.314961 377.433071 
+L 418.110236 377.433071 
+Q 414.708661 377.433071 414.708661 374.031496 
+L 414.708661 62.929134 
+Q 414.708661 59.527559 418.110236 59.527559 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #4d913f; stroke: #4d913f; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_88">
+    <path d="M 438.80315 59.527559 
+L 449.007874 59.527559 
+Q 452.409449 59.527559 452.409449 62.929134 
+L 452.409449 280.913386 
+Q 452.409449 284.314961 449.007874 284.314961 
+L 438.80315 284.314961 
+Q 435.401575 284.314961 435.401575 280.913386 
+L 435.401575 62.929134 
+Q 435.401575 59.527559 438.80315 59.527559 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #cf7921; stroke: #cf7921; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_89">
+    <path d="M 459.496063 59.527559 
+L 469.700787 59.527559 
+Q 473.102362 59.527559 473.102362 62.929134 
+L 473.102362 637.370079 
+Q 473.102362 640.771654 469.700787 640.771654 
+L 459.496063 640.771654 
+Q 456.094488 640.771654 456.094488 637.370079 
+L 456.094488 62.929134 
+Q 456.094488 59.527559 459.496063 59.527559 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #7d6aa7; stroke: #7d6aa7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_90">
+    <path d="M 8.503937 649.275591 
+L 473.385827 649.275591 
+L 473.385827 669.11811 
+L 8.503937 669.11811 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_91">
+    <path d="M 11.338583 654.094488 
+L 21.543307 654.094488 
+L 21.543307 664.299213 
+L 11.338583 664.299213 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #2f72b5; stroke: #2f72b5; stroke-width: 0.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_92">
+    <path d="M 79.370079 654.094488 
+L 89.574803 654.094488 
+L 89.574803 664.299213 
+L 79.370079 664.299213 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #4d913f; stroke: #4d913f; stroke-width: 0.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_93">
+    <path d="M 136.062992 654.094488 
+L 146.267717 654.094488 
+L 146.267717 664.299213 
+L 136.062992 664.299213 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #cf7921; stroke: #cf7921; stroke-width: 0.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 59.527559 104.314961 
+L 59.527559 132.377953 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 59.527559 132.377953 
+L 119.055118 132.377953 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 119.055118 132.377953 
+L 119.055118 138.330709 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 59.527559 177.732283 
+L 59.527559 215.291339 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 59.527559 215.291339 
+L 119.055118 215.291339 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 119.055118 215.291339 
+L 119.055118 214.866142 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 59.527559 260.645669 
+L 59.527559 306.496063 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 59.527559 306.496063 
+L 119.055118 306.496063 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 119.055118 306.496063 
+L 119.055118 304.15748 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 59.527559 351.850394 
+L 59.527559 385.228346 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 59.527559 385.228346 
+L 119.055118 385.228346 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 119.055118 385.228346 
+L 119.055118 397.275591 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 59.527559 430.582677 
+L 59.527559 451.700787 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 59.527559 451.700787 
+L 119.055118 451.700787 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 119.055118 451.700787 
+L 119.055118 461.622047 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 59.527559 497.055118 
+L 59.527559 523.133858 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 59.527559 523.133858 
+L 119.055118 523.133858 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 119.055118 523.133858 
+L 119.055118 530.220472 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 59.527559 568.488189 
+L 59.527559 591.165354 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 59.527559 591.165354 
+L 119.055118 591.165354 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 119.055118 591.165354 
+L 119.055118 604.488189 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 368.503937 342.992126 
+L 384.094488 342.992126 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke-dasharray: 3.515,1.52; stroke-dashoffset: 0; stroke: #c53c3c; stroke-width: 0.95"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 384.094488 342.992126 
+L 384.094488 540.708661 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke-dasharray: 3.515,1.52; stroke-dashoffset: 0; stroke: #c53c3c; stroke-width: 0.95"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 384.094488 540.708661 
+L 360 540.708661 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke-dasharray: 3.515,1.52; stroke-dashoffset: 0; stroke: #c53c3c; stroke-width: 0.95"/>
+   </g>
+   <g id="patch_94">
+    <path d="M 130.393701 89.007874 
+Q 118.346457 89.007874 107.249541 89.007874 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 110.249541 90.507874 
+L 107.249541 89.007874 
+L 110.249541 87.507874 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #202428; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_95">
+    <path d="M 130.393701 162.425197 
+Q 118.346457 162.425197 107.249541 162.425197 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 110.249541 163.925197 
+L 107.249541 162.425197 
+L 110.249541 160.925197 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #202428; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_96">
+    <path d="M 130.393701 245.338583 
+Q 118.346457 245.338583 107.249541 245.338583 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 110.249541 246.838583 
+L 107.249541 245.338583 
+L 110.249541 243.838583 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #202428; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_97">
+    <path d="M 130.393701 336.543307 
+Q 118.346457 336.543307 107.249541 336.543307 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 110.249541 338.043307 
+L 107.249541 336.543307 
+L 110.249541 335.043307 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #202428; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_98">
+    <path d="M 130.393701 415.275591 
+Q 118.346457 415.275591 107.249541 415.275591 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 110.249541 416.775591 
+L 107.249541 415.275591 
+L 110.249541 413.775591 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #202428; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_99">
+    <path d="M 130.393701 481.748031 
+Q 118.346457 481.748031 107.249541 481.748031 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 110.249541 483.248031 
+L 107.249541 481.748031 
+L 110.249541 480.248031 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #202428; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_100">
+    <path d="M 130.393701 553.181102 
+Q 118.346457 553.181102 107.249541 553.181102 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 110.249541 554.681102 
+L 107.249541 553.181102 
+L 110.249541 551.681102 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #202428; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_101">
+    <path d="M 130.393701 618.377953 
+Q 118.346457 618.377953 107.249541 618.377953 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 110.249541 619.877953 
+L 107.249541 618.377953 
+L 110.249541 616.877953 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #202428; stroke: #202428; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_102">
+    <path d="M 119.055118 138.330709 
+Q 124.724409 138.330709 129.443372 138.330709 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 126.443372 136.830709 
+L 129.443372 138.330709 
+L 126.443372 139.830709 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #7c858b; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_103">
+    <path d="M 119.055118 214.866142 
+Q 124.724409 214.866142 129.443372 214.866142 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 126.443372 213.366142 
+L 129.443372 214.866142 
+L 126.443372 216.366142 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #7c858b; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_104">
+    <path d="M 119.055118 304.15748 
+Q 124.724409 304.15748 129.443372 304.15748 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 126.443372 302.65748 
+L 129.443372 304.15748 
+L 126.443372 305.65748 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #7c858b; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_105">
+    <path d="M 119.055118 397.275591 
+Q 124.724409 397.275591 129.443372 397.275591 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 126.443372 395.775591 
+L 129.443372 397.275591 
+L 126.443372 398.775591 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #7c858b; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_106">
+    <path d="M 119.055118 461.622047 
+Q 124.724409 461.622047 129.443372 461.622047 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 126.443372 460.122047 
+L 129.443372 461.622047 
+L 126.443372 463.122047 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #7c858b; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_107">
+    <path d="M 119.055118 530.220472 
+Q 124.724409 530.220472 129.443372 530.220472 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 126.443372 528.720472 
+L 129.443372 530.220472 
+L 126.443372 531.720472 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #7c858b; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_108">
+    <path d="M 119.055118 604.488189 
+Q 124.724409 604.488189 129.443372 604.488189 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 126.443372 602.988189 
+L 129.443372 604.488189 
+L 126.443372 605.988189 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #7c858b; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_109">
+    <path d="M 171.023622 48.188976 
+Q 171.023622 53.858268 171.023622 58.57723 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 172.523622 55.57723 
+L 171.023622 58.57723 
+L 169.523622 55.57723 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #7c858b; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_110">
+    <path d="M 252.283465 48.188976 
+Q 252.283465 53.858268 252.283465 58.57723 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 253.783465 55.57723 
+L 252.283465 58.57723 
+L 250.783465 55.57723 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #7c858b; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_111">
+    <path d="M 333.543307 48.188976 
+Q 333.543307 53.858268 333.543307 58.57723 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+    <path d="M 335.043307 55.57723 
+L 333.543307 58.57723 
+L 332.043307 55.57723 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #7c858b; stroke: #7c858b; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="patch_112">
+    <path d="M 360 540.708661 
+Q 360 541.84252 360 541.914246 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke-dasharray: 3.515,1.52; stroke-dashoffset: 0; stroke: #c53c3c; stroke-width: 0.95; stroke-linecap: round"/>
+    <path d="M 361.5 538.914246 
+L 360 541.914246 
+L 358.5 538.914246 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #c53c3c; stroke-dasharray: 3.515,1.52; stroke-dashoffset: 0; stroke: #c53c3c; stroke-width: 0.95; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(148.651942 26.644422)">S1  Sentinel-2 L1C</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(142.875067 33.410211)">Copernicus Data Space</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(217.171785 26.644422)">S2  Sentinel-2 L2A (Sen2Cor)</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(218.076707 33.410211)">GEE S2_SR_HARMONIZED</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(305.096666 23.261527)">S3  SCR 2019 polygons</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(320.807877 30.027316)">(restricted)</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(304.950924 36.793105)">22 farms · 141 polygons</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="252.283465" y="70.100246" transform="rotate(-0 252.283465 70.100246)">1. Data acquisition</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="252.283465" y="87.482122" transform="rotate(-0 252.283465 87.482122)">2019-01-01 to 2020-12-31 · tiles 18NXJ, 18NXK</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="252.283465" y="95.41913" transform="rotate(-0 252.283465 95.41913)">Exact-date matching across pipelines</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #2f72b5" x="173.291339" y="109.11393" transform="rotate(-0 173.291339 109.11393)">L1C / TOA</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #4d913f" x="252.283465" y="109.11393" transform="rotate(-0 252.283465 109.11393)">Sen2Cor</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #cf7921" x="331.275591" y="109.11393" transform="rotate(-0 331.275591 109.11393)">LaSRC</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="252.283465" y="140.399459" transform="rotate(-0 252.283465 140.399459)">2. Radiometric and atmospheric correction</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #ffffff" x="173.574803" y="160.279285" transform="rotate(-0 173.574803 160.279285)">L1C / TOA</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(140.314961 171.381224)">TOA reflectance</text>
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(140.314961 177.730656)">PB ≥ 04.00:</text>
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(140.314961 184.080089)">−1000 DN offset</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #ffffff" x="252.283465" y="160.279285" transform="rotate(-0 252.283465 160.279285)">Sen2Cor</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(219.023622 171.671099)">ESA Sen2Cor L2A</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(219.023622 178.436888)">archived; not re-run</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #ffffff" x="330.992126" y="160.279285" transform="rotate(-0 330.992126 160.279285)">LaSRC</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(297.732283 171.381224)">LaSRC 3.2.0</text>
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(297.732283 177.730656)">(sen2lasrc 2.0.2)</text>
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(297.732283 184.080089)">MODIS_FUSED (217)</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="252.283465" y="216.917392" transform="rotate(-0 252.283465 216.917392)">3. Cloud and shadow screening</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #ffffff" x="173.574803" y="236.814718" transform="rotate(-0 173.574803 236.814718)">L1C / TOA</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(140.314961 248.206532)">Fmask 4.6 +</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(140.314961 254.972321)">s2cloudless</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #ffffff" x="252.283465" y="236.814718" transform="rotate(-0 252.283465 236.814718)">Sen2Cor</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(219.023622 248.206532)">SCL 1, 3, 8–11</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(219.023622 254.972321)">excluded</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #ffffff" x="330.992126" y="236.814718" transform="rotate(-0 330.992126 236.814718)">LaSRC</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(297.732283 247.916657)">Fmask 4.6 +</text>
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(297.732283 254.26609)">s2cloudless</text>
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(297.732283 260.615522)">masked + unmasked</text>
+   </g>
+   <g id="text_24">
+    <!-- L1C and LaSRC share one mask (sen2lasrc, 20 m $\rightarrow$ 10 m) -->
+    <g style="fill: #23272b" transform="translate(184.847965 275.129307)">
+     <text>
+      <tspan x="0" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">L</tspan>
+      <tspan x="2.793335" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">1</tspan>
+      <tspan x="5.58667" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">C</tspan>
+      <tspan x="9.211426" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="10.608093" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">a</tspan>
+      <tspan x="13.401428" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">n</tspan>
+      <tspan x="16.194763" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">d</tspan>
+      <tspan x="18.988098" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="20.384766" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">L</tspan>
+      <tspan x="23.178101" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">a</tspan>
+      <tspan x="25.971436" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">S</tspan>
+      <tspan x="29.321045" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">R</tspan>
+      <tspan x="32.945801" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">C</tspan>
+      <tspan x="36.570557" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="37.967224" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">s</tspan>
+      <tspan x="40.479431" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">h</tspan>
+      <tspan x="43.272766" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">a</tspan>
+      <tspan x="46.066101" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">r</tspan>
+      <tspan x="47.737915" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">e</tspan>
+      <tspan x="50.53125" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="51.927917" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">o</tspan>
+      <tspan x="54.721252" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">n</tspan>
+      <tspan x="57.514587" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">e</tspan>
+      <tspan x="60.307922" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="61.70459" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">m</tspan>
+      <tspan x="65.888611" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">a</tspan>
+      <tspan x="68.681946" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">s</tspan>
+      <tspan x="71.194153" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">k</tspan>
+      <tspan x="73.70636" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="75.103027" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">(</tspan>
+      <tspan x="76.774841" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">s</tspan>
+      <tspan x="79.287048" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">e</tspan>
+      <tspan x="82.080383" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">n</tspan>
+      <tspan x="84.873718" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">2</tspan>
+      <tspan x="87.667053" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">l</tspan>
+      <tspan x="88.782593" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">a</tspan>
+      <tspan x="91.575928" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">s</tspan>
+      <tspan x="94.088135" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">r</tspan>
+      <tspan x="95.759949" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">c</tspan>
+      <tspan x="98.272156" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">,</tspan>
+      <tspan x="99.668823" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="101.065491" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">2</tspan>
+      <tspan x="103.858826" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">0</tspan>
+      <tspan x="106.652161" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="108.048828" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">m</tspan>
+      <tspan x="112.232849" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="121.148193" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="122.544861" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">1</tspan>
+      <tspan x="125.338196" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">0</tspan>
+      <tspan x="128.131531" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="129.528198" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">m</tspan>
+      <tspan x="133.712219" y="-0.65625" style="font-style: italic; font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">)</tspan>
+      <tspan x="114.822815" y="-0.65625" style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #23272b">→</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="252.283465" y="306.20873" transform="rotate(-0 252.283465 306.20873)">4. NDVI and zonal aggregation</text>
+   </g>
+   <g id="text_26">
+    <!-- NDVI = ($\rho_{B8}$ − $\rho_{B4}$) / ($\rho_{B8}$ + $\rho_{B4}$) -->
+    <g style="fill: #23272b" transform="translate(212.938465 322.255291)">
+     <text>
+      <tspan x="0" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">N</tspan>
+      <tspan x="3.624756" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">D</tspan>
+      <tspan x="7.249512" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">V</tspan>
+      <tspan x="10.599121" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">I</tspan>
+      <tspan x="11.995789" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="13.392456" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">=</tspan>
+      <tspan x="16.326355" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="17.723022" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">(</tspan>
+      <tspan x="29.116052" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="30.51272" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">−</tspan>
+      <tspan x="33.446619" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="44.564502" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">)</tspan>
+      <tspan x="46.236316" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="47.632983" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">/</tspan>
+      <tspan x="49.029651" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="50.426318" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">(</tspan>
+      <tspan x="61.819348" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="63.216016" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">+</tspan>
+      <tspan x="66.149915" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="77.267798" y="-0.65625" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">)</tspan>
+      <tspan x="19.394836" y="-0.65625" style="font-style: oblique; font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #23272b">ρ</tspan>
+      <tspan x="34.843286" y="-0.65625" style="font-style: oblique; font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #23272b">ρ</tspan>
+      <tspan x="52.098132" y="-0.65625" style="font-style: oblique; font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #23272b">ρ</tspan>
+      <tspan x="67.546582" y="-0.65625" style="font-style: oblique; font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #23272b">ρ</tspan>
+      <tspan x="23.282776" y="0.328125" style="font-style: oblique; font-size: 4.27px; font-family: 'DejaVu Sans'; fill: #23272b">B</tspan>
+      <tspan x="38.731226" y="0.328125" style="font-style: oblique; font-size: 4.27px; font-family: 'DejaVu Sans'; fill: #23272b">B</tspan>
+      <tspan x="55.986072" y="0.328125" style="font-style: oblique; font-size: 4.27px; font-family: 'DejaVu Sans'; fill: #23272b">B</tspan>
+      <tspan x="71.434521" y="0.328125" style="font-style: oblique; font-size: 4.27px; font-family: 'DejaVu Sans'; fill: #23272b">B</tspan>
+      <tspan x="26.224152" y="0.328125" style="font-size: 4.27px; font-family: 'DejaVu Sans'; fill: #23272b">8</tspan>
+      <tspan x="41.672601" y="0.328125" style="font-size: 4.27px; font-family: 'DejaVu Sans'; fill: #23272b">4</tspan>
+      <tspan x="58.927448" y="0.328125" style="font-size: 4.27px; font-family: 'DejaVu Sans'; fill: #23272b">8</tspan>
+      <tspan x="74.375897" y="0.328125" style="font-size: 4.27px; font-family: 'DejaVu Sans'; fill: #23272b">4</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #ffffff" x="173.574803" y="334.184796" transform="rotate(-0 173.574803 334.184796)">L1C / TOA</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(140.314961 345.57661)">rasterio mean</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(140.314961 352.3424)">10 m</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #ffffff" x="252.283465" y="334.184796" transform="rotate(-0 252.283465 334.184796)">Sen2Cor</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(219.023622 345.57661)">reduceRegions</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(219.023622 352.3424)">native B8, 10 m</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #ffffff" x="330.992126" y="334.184796" transform="rotate(-0 330.992126 334.184796)">LaSRC</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(297.732283 345.57661)">rasterio mean</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(297.732283 352.3424)">INT16 scaled, 10 m</text>
+   </g>
+   <g id="text_33">
+    <text style="font-style: italic; font-size: 6.2px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="252.283465" y="368.264699" transform="rotate(-0 252.283465 368.264699)">Per record: mean NDVI + valid-pixel count · polygons from S3</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="252.283465" y="399.344341" transform="rotate(-0 252.283465 399.344341)">5. Harmonization and quality control</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(140.598425 416.159288)">• Key: farm_polygon__UT</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(140.598425 422.925077)">• Duplicates excluded</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(140.598425 429.690866)">• Exact-date inner join</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(261.070866 416.159288)">• Cross-product QC (−1)</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(261.070866 422.925077)">• ≥ 10 valid px, L1C + LaSRC</text>
+    <!--   (−12; 107 $\rightarrow$ 106 polygons) -->
+    <g style="fill: #23272b" transform="translate(261.070866 429.730577)">
+     <text>
+      <tspan x="0" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="1.482178" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="2.964355" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">(</tspan>
+      <tspan x="4.738525" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">−</tspan>
+      <tspan x="7.852051" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">1</tspan>
+      <tspan x="10.816406" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">2</tspan>
+      <tspan x="13.780762" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">;</tspan>
+      <tspan x="15.262939" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="16.745117" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">1</tspan>
+      <tspan x="19.709473" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">0</tspan>
+      <tspan x="22.673828" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">7</tspan>
+      <tspan x="25.638184" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="35.099365" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="36.581543" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">1</tspan>
+      <tspan x="39.545898" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">0</tspan>
+      <tspan x="42.510254" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">6</tspan>
+      <tspan x="45.474609" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="46.956787" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">p</tspan>
+      <tspan x="49.921143" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">o</tspan>
+      <tspan x="52.885498" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">l</tspan>
+      <tspan x="54.069336" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">y</tspan>
+      <tspan x="56.735352" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">g</tspan>
+      <tspan x="59.699707" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">o</tspan>
+      <tspan x="62.664062" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">n</tspan>
+      <tspan x="65.628418" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">s</tspan>
+      <tspan x="68.294434" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">)</tspan>
+      <tspan x="28.386719" y="-0.921875" style="font-size: 6.5px; font-family: 'DejaVu Sans'; fill: #23272b">→</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="252.283465" y="463.673297" transform="rotate(-0 252.283465 463.673297)">6. Agreement analysis</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(140.598425 480.505744)">• d = Y − X; RMSD; uRMSD</text>
+    <!-- • Lin's CCC; Deming ($\lambda$ = 1) -->
+    <g style="fill: #23272b" transform="translate(140.598425 487.535494)">
+     <text>
+      <tspan x="0" y="-0.6875" style="font-size: 6.5px; font-family: 'DejaVu Sans Display'; fill: #23272b">•</tspan>
+      <tspan x="3.833984" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="5.316162" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">L</tspan>
+      <tspan x="8.280518" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">i</tspan>
+      <tspan x="9.464355" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">n</tspan>
+      <tspan x="12.428711" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">'</tspan>
+      <tspan x="13.450684" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">s</tspan>
+      <tspan x="16.116699" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="17.598877" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">C</tspan>
+      <tspan x="21.445557" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">C</tspan>
+      <tspan x="25.292236" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">C</tspan>
+      <tspan x="29.138916" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">;</tspan>
+      <tspan x="30.621094" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="32.103271" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">D</tspan>
+      <tspan x="35.949951" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">e</tspan>
+      <tspan x="38.914307" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">m</tspan>
+      <tspan x="43.354492" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">i</tspan>
+      <tspan x="44.53833" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">n</tspan>
+      <tspan x="47.502686" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">g</tspan>
+      <tspan x="50.467041" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="51.949219" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">(</tspan>
+      <tspan x="57.570068" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="59.052246" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">=</tspan>
+      <tspan x="62.165771" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="63.647949" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">1</tspan>
+      <tspan x="66.612305" y="-0.6875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">)</tspan>
+      <tspan x="53.723389" y="-0.6875" style="font-style: oblique; font-size: 6.5px; font-family: 'DejaVu Sans'; fill: #23272b">λ</tspan>
+     </text>
+    </g>
+    <!-- • LoA = $\bar{d}$ ± 1.96 SD -->
+    <g style="fill: #23272b" transform="translate(140.598425 494.674932)">
+     <text>
+      <tspan x="0" y="-0.359375" style="font-size: 6.5px; font-family: 'DejaVu Sans Display'; fill: #23272b">•</tspan>
+      <tspan x="3.833984" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="5.316162" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">L</tspan>
+      <tspan x="8.280518" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">o</tspan>
+      <tspan x="11.244873" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">A</tspan>
+      <tspan x="14.799561" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="16.281738" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">=</tspan>
+      <tspan x="19.395264" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="25.003418" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="26.485596" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">±</tspan>
+      <tspan x="30.052979" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="31.535156" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">1</tspan>
+      <tspan x="34.499512" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">.</tspan>
+      <tspan x="35.981689" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">9</tspan>
+      <tspan x="38.946045" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">6</tspan>
+      <tspan x="41.9104" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="43.392578" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">S</tspan>
+      <tspan x="46.947266" y="-0.359375" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">D</tspan>
+      <tspan x="25.487061" y="-1.78125" style="font-size: 6.5px; font-family: 'DejaVu Sans'; fill: #23272b">̄</tspan>
+      <tspan x="20.877441" y="-0.359375" style="font-style: oblique; font-size: 6.5px; font-family: 'DejaVu Sans'; fill: #23272b">d</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(261.070866 480.505744)">• 3 pairs × 2019, 2020, pooled</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(261.070866 487.271533)">• Farm-cluster bootstrap</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(261.070866 494.037322)">  B = 2,000; seed 2026</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="252.283465" y="532.289222" transform="rotate(-0 252.283465 532.289222)">7. Stratified analyses</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #4d913f" x="140.314961" y="551.371886" transform="rotate(-0 140.314961 551.371886)">Land use</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(140.314961 559.875823)">6 SCR classes (UT2–UT8)</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(140.314961 566.641612)">UT0 excluded (−270)</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(140.314961 573.407401)">N = 1,527 · 21 farms</text>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #c53c3c" x="259.370079" y="551.371886" transform="rotate(-0 259.370079 551.371886)">Masking sensitivity</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(259.370079 559.875823)">Masked vs unmasked LaSRC</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(259.370079 566.641612)">vs same Sen2Cor</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(259.370079 573.407401)">N = 2,585 (strict 2,521)</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="252.283465" y="606.556939" transform="rotate(-0 252.283465 606.556939)">8. Acceptance and release</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(140.598425 623.371886)">• Expected counts + metrics</text>
+    <!-- • Tolerance 1e-12 $\rightarrow$ PASS -->
+    <g style="fill: #23272b" transform="translate(140.598425 630.137675)">
+     <text>
+      <tspan x="0" y="-0.921875" style="font-size: 6.5px; font-family: 'DejaVu Sans Display'; fill: #23272b">•</tspan>
+      <tspan x="3.833984" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="5.316162" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">T</tspan>
+      <tspan x="8.57251" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">o</tspan>
+      <tspan x="11.536865" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">l</tspan>
+      <tspan x="12.720703" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">e</tspan>
+      <tspan x="15.685059" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">r</tspan>
+      <tspan x="17.459229" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">a</tspan>
+      <tspan x="20.423584" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">n</tspan>
+      <tspan x="23.387939" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">c</tspan>
+      <tspan x="26.053955" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">e</tspan>
+      <tspan x="29.018311" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="30.500488" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">1</tspan>
+      <tspan x="33.464844" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">e</tspan>
+      <tspan x="36.429199" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">-</tspan>
+      <tspan x="38.203369" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">1</tspan>
+      <tspan x="41.167725" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">2</tspan>
+      <tspan x="44.13208" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="53.593262" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="55.075439" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">P</tspan>
+      <tspan x="58.630127" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">A</tspan>
+      <tspan x="62.184814" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">S</tspan>
+      <tspan x="65.739502" y="-0.921875" style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">S</tspan>
+      <tspan x="46.880615" y="-0.921875" style="font-size: 6.5px; font-family: 'DejaVu Sans'; fill: #23272b">→</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(261.070866 623.371886)">• SHA-256 · Zenodo package</text>
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(261.070866 630.137675)">• Restricted geometry excluded</text>
+   </g>
+   <g id="text_48">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="59.527559" y="84.442891" transform="rotate(-0 59.527559 84.442891)">Scene records</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(17.007874 92.861539)">L1C 157 · Sen2Cor 175</text>
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(17.007874 99.210971)">LaSRC 376 outputs</text>
+   </g>
+   <g id="text_50">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="9.92126" y="70.821343" transform="rotate(-0 9.92126 70.821343)">708 /</text>
+   </g>
+   <g id="text_51">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="59.527559" y="157.860214" transform="rotate(-0 59.527559 157.860214)">Reflectance stacks</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="17.007874" y="166.568736" transform="rotate(-0 17.007874 166.568736)">L1C · Sen2Cor · LaSRC</text>
+   </g>
+   <g id="text_53">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="9.92126" y="144.238666" transform="rotate(-0 9.92126 144.238666)">3 /</text>
+   </g>
+   <g id="text_54">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="59.527559" y="240.7736" transform="rotate(-0 59.527559 240.7736)">Screened reflectance</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(17.007874 249.192247)">3 masked</text>
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(17.007874 255.54168)">+ LaSRC unmasked</text>
+   </g>
+   <g id="text_56">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="9.92126" y="227.152052" transform="rotate(-0 9.92126 227.152052)">4 /</text>
+   </g>
+   <g id="text_57">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="59.527559" y="331.978324" transform="rotate(-0 59.527559 331.978324)">Polygon-date tables</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(17.007874 340.396972)">L1C · Sen2Cor</text>
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(17.007874 346.746405)">LaSRC masked + unmasked</text>
+   </g>
+   <g id="text_59">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="9.92126" y="318.356776" transform="rotate(-0 9.92126 318.356776)">4 /</text>
+   </g>
+   <g id="text_60">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="59.527559" y="410.710608" transform="rotate(-0 59.527559 410.710608)">Common set</text>
+   </g>
+   <g id="text_61">
+    <!-- 1,810 $\rightarrow$ 1,809 $\rightarrow$ 1,797 -->
+    <g style="fill: #23272b" transform="translate(17.007874 419.129255)">
+     <text>
+      <tspan x="0" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">1</tspan>
+      <tspan x="2.793335" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">,</tspan>
+      <tspan x="4.190002" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">8</tspan>
+      <tspan x="6.983337" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">1</tspan>
+      <tspan x="9.776672" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">0</tspan>
+      <tspan x="12.570007" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="21.485352" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="22.882019" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">1</tspan>
+      <tspan x="25.675354" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">,</tspan>
+      <tspan x="27.072021" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">8</tspan>
+      <tspan x="29.865356" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">0</tspan>
+      <tspan x="32.658691" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">9</tspan>
+      <tspan x="35.452026" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="44.367371" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b"> </tspan>
+      <tspan x="45.764038" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">1</tspan>
+      <tspan x="48.557373" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">,</tspan>
+      <tspan x="49.954041" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">7</tspan>
+      <tspan x="52.747375" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">9</tspan>
+      <tspan x="55.54071" y="-0.8125" style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; font-stretch: condensed; fill: #23272b">7</tspan>
+      <tspan x="15.159973" y="-0.8125" style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #23272b">→</tspan>
+      <tspan x="38.041992" y="-0.8125" style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #23272b">→</tspan>
+     </text>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Liberation Sans Narrow'; fill: #23272b" transform="translate(17.007874 425.478688)">106 polygons · 22 farms</text>
+   </g>
+   <g id="text_62">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="9.92126" y="397.089059" transform="rotate(-0 9.92126 397.089059)">1,797 /</text>
+   </g>
+   <g id="text_63">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="59.527559" y="477.183049" transform="rotate(-0 59.527559 477.183049)">Agreement table</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="17.007874" y="485.891571" transform="rotate(-0 17.007874 485.891571)">3 pairs × 3 periods</text>
+   </g>
+   <g id="text_65">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="9.92126" y="463.5615" transform="rotate(-0 9.92126 463.5615)">9 /</text>
+   </g>
+   <g id="text_66">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="59.527559" y="548.61612" transform="rotate(-0 59.527559 548.61612)">Stratified tables</text>
+   </g>
+   <g id="text_67">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="17.007874" y="557.324642" transform="rotate(-0 17.007874 557.324642)">Land use · Masking</text>
+   </g>
+   <g id="text_68">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="9.92126" y="534.994571" transform="rotate(-0 9.92126 534.994571)">18 + 2 /</text>
+   </g>
+   <g id="text_69">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Liberation Sans Narrow'; text-anchor: middle; fill: #23272b" x="59.527559" y="614.946828" transform="rotate(-0 59.527559 614.946828)">Canonical outputs</text>
+   </g>
+   <g id="text_70">
+    <text style="font-size: 6.5px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="17.007874" y="622.521492" transform="rotate(-0 17.007874 622.521492)">+ release metadata</text>
+   </g>
+   <g id="text_71">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="9.92126" y="603.026067" transform="rotate(-0 9.92126 603.026067)">3 /</text>
+   </g>
+   <g id="text_72">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #ffffff" transform="translate(404.200544 146.672505) rotate(-90)">EODAG / CDSE</text>
+   </g>
+   <g id="text_73">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #ffffff" transform="translate(424.879239 251.548557) rotate(-90)">Earth Engine (Python API)</text>
+   </g>
+   <g id="text_74">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #ffffff" transform="translate(445.586371 212.062822) rotate(-90)">sen2lasrc / Docker · USGS M2M</text>
+   </g>
+   <g id="text_75">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Liberation Sans Narrow'; fill: #ffffff" transform="translate(466.279285 391.615036) rotate(-90)">Python: rasterio, pandas, numpy</text>
+   </g>
+   <g id="text_76">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="24.377953" y="660.800132" transform="rotate(-0 24.377953 660.800132)">L1C / TOA</text>
+   </g>
+   <g id="text_77">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="92.409449" y="660.800132" transform="rotate(-0 92.409449 660.800132)">Sen2Cor</text>
+   </g>
+   <g id="text_78">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="149.102362" y="660.800132" transform="rotate(-0 149.102362 660.800132)">LaSRC</text>
+   </g>
+   <g id="line2d_25">
+    <path d="M 187.086614 659.19685 
+L 209.76378 659.19685 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #c53c3c"/>
+   </g>
+   <g id="text_79">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="214.015748" y="660.800132" transform="rotate(-0 214.015748 660.800132)">Masking-sensitivity branch</text>
+   </g>
+   <g id="patch_113">
+    <path d="M 316.646392 659.19685 
+Q 324.56761 659.19685 331.5944 659.19685 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #202428; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 328.7944 657.79685 
+L 331.5944 659.19685 
+L 328.7944 660.59685 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #202428; stroke: #202428; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_80">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="337.889764" y="660.800132" transform="rotate(-0 337.889764 660.800132)">output</text>
+   </g>
+   <g id="line2d_26">
+    <path d="M 368.503937 653.527559 
+L 368.503937 659.19685 
+L 385.511811 659.19685 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="patch_114">
+    <path d="M 381.276175 659.19685 
+Q 382.395061 659.19685 382.61952 659.19685 
+" clip-path="url(#p62d84b11ea)" style="fill: none; stroke: #7c858b; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 380.01952 657.89685 
+L 382.61952 659.19685 
+L 380.01952 660.49685 
+z
+" clip-path="url(#p62d84b11ea)" style="fill: #7c858b; stroke: #7c858b; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_81">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans Narrow'; text-anchor: start; fill: #23272b" x="388.346457" y="660.800132" transform="rotate(-0 388.346457 660.800132)">next step</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p62d84b11ea">
+   <rect x="0" y="0" width="481.889764" height="677.622047"/>
+  </clipPath>
+ </defs>
+</svg>

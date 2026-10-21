@@ -1,0 +1,36 @@
+{
+  "title": "Category-Specific Sentinel-2 NDVI Differences among Level-1C, Sen2Cor, and LaSRC in a Tropical Silvopastoral Landscape: Derived statistical dataset",
+  "upload_type": "dataset",
+  "description": "Derived, non-geometric summary tables and manifests for a Sentinel-2 NDVI method comparison across Level-1C/TOA, Sen2Cor L2A/SR, and LaSRC L2A/SR observations in a tropical silvopastoral landscape of the Colombian Orinoco Piedmont (2019-2020; 1,797 common polygon-by-date observations from 106 management polygons on 22 farms). Farm-boundary and management-polygon geometries are governed by the Sustainable Cattle Ranching project and are not publicly distributed.",
+  "creators": [
+    {
+      "name": "Pantevez Villamil, Heiber Alexander",
+      "orcid": "0000-0003-1797-0057",
+      "affiliation": "Universidad Nacional de Colombia"
+    }
+  ],
+  "keywords": [
+    "Sentinel-2 MSI",
+    "NDVI",
+    "surface reflectance",
+    "Sen2Cor",
+    "LaSRC",
+    "atmospheric correction",
+    "method comparison",
+    "tropical silvopastoral systems",
+    "open science",
+    "reproducible research"
+  ],
+  "version": "1.0.0",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.15007856",
+      "relation": "requires",
+      "resource_type": "software",
+      "scheme": "doi"
+    }
+  ]
+}

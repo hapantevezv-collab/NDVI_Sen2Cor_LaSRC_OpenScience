@@ -1,0 +1,2 @@
+farm_id,id_field,features,date,tile,n_common_pixels_within_polygon,mean_ndvi_l1c,median_ndvi_l1c,mean_ndvi_sen2cor,median_ndvi_sen2cor,mean_ndvi_lasrc,median_ndvi_lasrc
+3948,ID_Predio,1,7 August 2019,T18NXJ,12565,0.6634639501571655,0.681394636631012,0.7563153505325317,0.7742555737495422,0.767613410949707,0.7831813097000122

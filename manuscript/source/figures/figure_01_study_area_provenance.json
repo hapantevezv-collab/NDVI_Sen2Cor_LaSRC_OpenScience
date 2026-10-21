@@ -1,0 +1,106 @@
+{
+  "figure": "Figure 1 — study area, R4 CIERRE",
+  "instruction": "INSTRUCCION_FIGURA1_R4_CIERRE.md",
+  "figure_size_mm": [
+    170.0,
+    80.0
+  ],
+  "font": "Liberation Sans",
+  "caption": "Study area in the Orinoco Piedmont, Department of Meta, Colombia. (a) Location in Colombia. (b) The 22 farms (small farms shown as dots), municipal boundaries and Sentinel-2 tiles 18NXJ and 18NXK (shaded: tile overlap) over shaded relief. (c) Management polygons of farm 3948 (red box in b; shown in Figure 3) by SCR land-use category (Table 1). Relief: Copernicus DEM GLO-90.",
+  "counts": {
+    "farm_features": 23,
+    "unique_farms": 22,
+    "area_ha_attribute_once_per_farm": 855.23,
+    "area_ha_geometry_epsg9377": 853.986,
+    "farm_3948_features": 1,
+    "farm_3948_outline_components": 2,
+    "farm_3948_outline_area_ha": 125.428,
+    "farm_3948_management_polygons": 14,
+    "farm_3948_ut": [
+      "0",
+      "2",
+      "3",
+      "6"
+    ],
+    "dot_pairs_separated": 5,
+    "municipality_labels_omitted": [
+      "Castilla la Nueva",
+      "Mesetas",
+      "Cubarral"
+    ]
+  },
+  "cartography": {
+    "panel_b_extent_frozen_from_R2": [
+      4887164.560474056,
+      1903527.5700287025,
+      4954317.89961875,
+      1971520.3259127059
+    ],
+    "regional_extent_west_extension_m": 9000,
+    "relief_vertical_exaggeration": 2.5,
+    "relief_alpha": 0.7,
+    "tile_overlap_alpha": 0.06,
+    "panel_c_margin_fraction": 0.06,
+    "panel_bc_connectors": "none; red box/frame relation"
+  },
+  "restricted_geometry": {
+    "farm_3948_shown": true,
+    "publication_authorization": "pending SCR confirmation",
+    "coordinates_suppressed_in_panel_c": true
+  },
+  "inputs": [
+    {
+      "path": "data/PO_LDO_EI_2019.shp",
+      "sha256": "c5d232b5ccc2856cf8b21e76007343b388cd8e152385de355af4a417086a711a"
+    },
+    {
+      "path": "data/PGO_EI_2019.shp",
+      "sha256": "2af771ce443b23aee893837bb03b28ab1c6a28995fd1c255cbc9a341a02ff67c"
+    },
+    {
+      "path": "data/sentinel2_tiles_18NXJ_18NXK.geojson",
+      "sha256": "f117b060a05498b479bd75836ccc2da183b8d05115e96bb8b1871a493aaf82de"
+    },
+    {
+      "path": "data/external/geoboundaries_COL_ADM1.geojson",
+      "sha256": "5e058b9e44eb4c83e4a33ea507c636029d08ddc6c93797f6963de99bf3f7cef2"
+    },
+    {
+      "path": "data/external/geoboundaries_COL_ADM2.geojson",
+      "sha256": "fe715854fc3383d2fd39e8692f3df0c60bd12208cb2cd36ef1ec2220ea8972fe"
+    },
+    {
+      "path": "data/external/ne_110m_admin_0_countries/ne_110m_admin_0_countries.shp",
+      "sha256": "08e341606e8391e458c3f08deb312de664b56bfae376064c5aa0aee6681a5f55"
+    },
+    {
+      "path": "data/external/copernicus_dem_glo90/Copernicus_DSM_COG_30_N02_00_W074_00_DEM.tif",
+      "sha256": "9d1ca5393bb317b08ab9cca53c08bd7ec2d5a527ec081f3c2b44759da7d06627"
+    },
+    {
+      "path": "data/external/copernicus_dem_glo90/Copernicus_DSM_COG_30_N02_00_W075_00_DEM.tif",
+      "sha256": "8d8cafc1f616782525442cb6a696aa50ef565cdee8a19e28b1b9ba768ed65bcb"
+    },
+    {
+      "path": "data/external/copernicus_dem_glo90/Copernicus_DSM_COG_30_N03_00_W074_00_DEM.tif",
+      "sha256": "3421e7d125c8567e75233646933dc3cc253ebfe5fea7a402864a4385c9d76b04"
+    },
+    {
+      "path": "data/external/copernicus_dem_glo90/Copernicus_DSM_COG_30_N03_00_W075_00_DEM.tif",
+      "sha256": "8fb54dda43581168d37265c3d11ed75e1bda8aae575aa25ede5bb63466f15553"
+    },
+    {
+      "path": "data/external/copernicus_dem_glo90/Copernicus_DSM_COG_30_N04_00_W074_00_DEM.tif",
+      "sha256": "b27f06c1f2db31fc3a8e8317a4b05925a30022e1a089d1c508d14bd6b91eb39f"
+    },
+    {
+      "path": "data/external/copernicus_dem_glo90/Copernicus_DSM_COG_30_N04_00_W075_00_DEM.tif",
+      "sha256": "5d0338d7f675bb07deef9942c23ef7e5895330a4b09fcd1b3cf6fe01af7008ea"
+    }
+  ],
+  "pipeline_colors_imported_from_figure2": {
+    "l1c": "#2f72b5",
+    "s2c": "#4d913f",
+    "lasrc": "#cf7921"
+  }
+}

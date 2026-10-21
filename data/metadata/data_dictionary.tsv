@@ -1,0 +1,48 @@
+file_name	field_name	description	data_type	unit
+agreement_three_pipelines_2019_2020.csv	comparison	Compared processing pipelines; the first-named pipeline minus the second-named pipeline.	text	
+agreement_three_pipelines_2019_2020.csv	year	Calendar year.	integer	year
+agreement_three_pipelines_2019_2020.csv	observation_count	Number of polygon-by-date observations.	integer	count
+agreement_three_pipelines_2019_2020.csv	mean_difference	Mean paired NDVI difference.	number	NDVI units
+agreement_three_pipelines_2019_2020.csv	mean_difference_ci_low	Lower bound of the 95% confidence interval for the mean paired difference.	number	NDVI units
+agreement_three_pipelines_2019_2020.csv	mean_difference_ci_high	Upper bound of the 95% confidence interval for the mean paired difference.	number	NDVI units
+agreement_three_pipelines_2019_2020.csv	rmsd	Root-mean-square deviation.	number	NDVI units
+agreement_three_pipelines_2019_2020.csv	urmsd	Unbiased root-mean-square deviation.	number	NDVI units
+agreement_three_pipelines_2019_2020.csv	ccc	Lin's concordance correlation coefficient.	number	
+agreement_three_pipelines_2019_2020.csv	ccc_ci_low	Lower bound of the 95% confidence interval for CCC.	number	
+agreement_three_pipelines_2019_2020.csv	ccc_ci_high	Upper bound of the 95% confidence interval for CCC.	number	
+agreement_three_pipelines_2019_2020.csv	r_squared	Squared Pearson correlation coefficient.	number	
+agreement_three_pipelines_2019_2020.csv	deming_slope	Deming regression slope with error-variance ratio lambda = 1.	number	
+agreement_three_pipelines_2019_2020.csv	deming_slope_ci_low	Lower bound of the 95% confidence interval for the Deming slope.	number	
+agreement_three_pipelines_2019_2020.csv	deming_slope_ci_high	Upper bound of the 95% confidence interval for the Deming slope.	number	
+agreement_three_pipelines_2019_2020.csv	deming_intercept	Deming regression intercept.	number	NDVI units
+agreement_three_pipelines_2019_2020.csv	loa_low	Lower Bland-Altman 95% limit of agreement.	number	NDVI units
+agreement_three_pipelines_2019_2020.csv	loa_high	Upper Bland-Altman 95% limit of agreement.	number	NDVI units
+agreement_sen2cor_lasrc_2019_2020.csv	year	Calendar year.	integer	year
+agreement_sen2cor_lasrc_2019_2020.csv	lasrc_version	LaSRC export version used in the masking comparison.	text	
+agreement_sen2cor_lasrc_2019_2020.csv	observation_count	Number of polygon-by-date observations.	integer	count
+agreement_sen2cor_lasrc_2019_2020.csv	mean_difference	Mean paired NDVI difference.	number	NDVI units
+agreement_sen2cor_lasrc_2019_2020.csv	mean_difference_ci_low	Lower bound of the 95% confidence interval for the mean paired difference.	number	NDVI units
+agreement_sen2cor_lasrc_2019_2020.csv	mean_difference_ci_high	Upper bound of the 95% confidence interval for the mean paired difference.	number	NDVI units
+agreement_sen2cor_lasrc_2019_2020.csv	rmsd	Root-mean-square deviation.	number	NDVI units
+agreement_sen2cor_lasrc_2019_2020.csv	urmsd	Unbiased root-mean-square deviation.	number	NDVI units
+agreement_sen2cor_lasrc_2019_2020.csv	ccc	Lin's concordance correlation coefficient.	number	
+agreement_sen2cor_lasrc_2019_2020.csv	ccc_ci_low	Lower bound of the 95% confidence interval for CCC.	number	
+agreement_sen2cor_lasrc_2019_2020.csv	ccc_ci_high	Upper bound of the 95% confidence interval for CCC.	number	
+agreement_sen2cor_lasrc_2019_2020.csv	r_squared	Squared Pearson correlation coefficient.	number	
+agreement_sen2cor_lasrc_2019_2020.csv	deming_slope	Deming regression slope with error-variance ratio lambda = 1.	number	
+agreement_sen2cor_lasrc_2019_2020.csv	deming_slope_ci_low	Lower bound of the 95% confidence interval for the Deming slope.	number	
+agreement_sen2cor_lasrc_2019_2020.csv	deming_slope_ci_high	Upper bound of the 95% confidence interval for the Deming slope.	number	
+agreement_sen2cor_lasrc_2019_2020.csv	deming_intercept	Deming regression intercept.	number	NDVI units
+agreement_sen2cor_lasrc_2019_2020.csv	loa_low	Lower Bland-Altman 95% limit of agreement.	number	NDVI units
+agreement_sen2cor_lasrc_2019_2020.csv	loa_high	Upper Bland-Altman 95% limit of agreement.	number	NDVI units
+land_use_gradient_2019_2020.csv	comparison	Compared processing pipelines; the first-named pipeline minus the second-named pipeline.	text	
+land_use_gradient_2019_2020.csv	land_use_code	Sustainable Cattle Ranching project land-use category code.	text	
+land_use_gradient_2019_2020.csv	land_use_label	English land-use category label used in the manuscript.	text	
+land_use_gradient_2019_2020.csv	observation_count	Number of polygon-by-date observations.	integer	count
+land_use_gradient_2019_2020.csv	polygon_count	Number of distinct land-use management polygons.	integer	count
+land_use_gradient_2019_2020.csv	mean_difference	Mean paired NDVI difference.	number	NDVI units
+land_use_gradient_2019_2020.csv	mean_difference_ci_low	Lower bound of the 95% confidence interval for the mean paired difference.	number	NDVI units
+land_use_gradient_2019_2020.csv	mean_difference_ci_high	Upper bound of the 95% confidence interval for the mean paired difference.	number	NDVI units
+land_use_gradient_2019_2020.csv	ccc	Lin's concordance correlation coefficient.	number	
+land_use_gradient_2019_2020.csv	deming_slope	Deming regression slope with error-variance ratio lambda = 1.	number	
+land_use_gradient_2019_2020.csv	deming_intercept	Deming regression intercept.	number	NDVI units

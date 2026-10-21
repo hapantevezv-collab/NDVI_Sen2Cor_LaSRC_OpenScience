@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this research compendium, please cite it using these metadata."
+title: "Category-Specific Sentinel-2 NDVI Differences among Level-1C, Sen2Cor, and LaSRC in a Tropical Silvopastoral Landscape: Open Science Reproducibility Compendium"
+abstract: >-
+  Reproducibility compendium for a Sentinel-2 NDVI method-comparison study across
+  Level-1C/TOA, Sen2Cor L2A/SR, and LaSRC L2A/SR observations in a tropical
+  silvopastoral landscape of the Colombian Orinoco Piedmont (2019-2020; 1,797 common
+  polygon-by-date observations from 106 management polygons on 22 farms). The public
+  package includes the manuscript source, analysis and figure code, final figures,
+  derived summary tables, input-scene and auxiliary-data manifests, provenance records,
+  and computational-environment records. Farm-boundary and management-polygon
+  geometries are governed by the Sustainable Cattle Ranching project and are not
+  publicly distributed.
+type: software
+authors:
+  - family-names: "Pantevez Villamil"
+    given-names: "Heiber Alexander"
+    orcid: "https://orcid.org/0000-0003-1797-0057"
+    email: "hapantevezv@unal.edu.co"
+    affiliation: "Doctoral Program in Agroecology, Facultad de Ciencias Agropecuarias, Universidad Nacional de Colombia, Sede Palmira, Palmira, Colombia; Facultad de Ciencias Agrarias, Universidad Nacional de Colombia, Sede Bogotá, Bogotá, Colombia"
+version: "1.0.0"
+date-released: "2026-10-21"
+license:
+  - MIT
+  - CC-BY-4.0
+  - CC0-1.0
+repository-code: "https://github.com/hapantevezv-collab/NDVI_Sen2Cor_LaSRC_OpenScience"
+keywords:
+  - "Sentinel-2 MSI"
+  - "NDVI"
+  - "surface reflectance"
+  - "Sen2Cor"
+  - "LaSRC"
+  - "atmospheric correction"
+  - "method comparison"
+  - "tropical silvopastoral systems"
+  - "open science"
+  - "reproducible research"
+references:
+  - type: software
+    title: "sen2lasrc: Download and Convert Sentinel-2 L1C to L2A with LaSRC, Fmask and s2cloudless"
+    version: "2.0.2"
+    doi: "10.5281/zenodo.15007856"
+    authors:
+      - family-names: "de Boissieu"
+        given-names: "Florian"
+      - family-names: "le Maire"
+        given-names: "Guerric"
+      - family-names: "Féret"
+        given-names: "Jean-Baptiste"
+preferred-citation:
+  type: article
+  title: "Category-Specific Sentinel-2 NDVI Differences among Level-1C, Sen2Cor, and LaSRC in a Tropical Silvopastoral Landscape"
+  authors:
+    - family-names: "Pantevez Villamil"
+      given-names: "Heiber Alexander"
+      orcid: "https://orcid.org/0000-0003-1797-0057"
+  status: submitted
+  year: 2026

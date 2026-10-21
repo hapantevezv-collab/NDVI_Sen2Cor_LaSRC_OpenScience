@@ -1,0 +1,5 @@
+container_id=0988135c39ea
+image_digest_or_tag=ADD_FROM_DOCKER_HOST_OR_REGISTRY
+sen2lasrc_version=2.0.2
+lasrc_version=3.2.0
+eodag_version=3.10.2

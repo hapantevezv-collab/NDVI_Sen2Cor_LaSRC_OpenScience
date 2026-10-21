@@ -1,0 +1,21 @@
+project:
+  name: NDVI_Sen2Cor_LaSRC
+  version: 0.9.0
+  study_period:
+    start: 2019-01-01
+    end: 2020-12-31
+  tiles: [18NXJ, 18NXK]
+  target_resolution_m: 10
+  cloud_scene_threshold_percent: 20
+  minimum_valid_pixels: 10
+  bootstrap_replicates: 2000
+  bootstrap_cluster: polygon
+
+local_paths:
+  # Copy to project_config.local.yml and edit locally. Do not commit secrets.
+  project_root: /path/to/A3_lasrc
+  polygons: /restricted/path/to/polygons.gpkg
+  common_observation_table: /restricted/path/to/common_three_pipeline.csv
+  l1c_raster_example: /path/to/l1c_ndvi.tif
+  sen2cor_raster_example: /path/to/sen2cor_ndvi.tif
+  lasrc_raster_example: /path/to/lasrc_ndvi.tif

@@ -1,0 +1,6 @@
+python=Python 3.12.3
+quarto=1.4.550
+pdflatex=environment/capture_environment.sh: line 19: pdflatex: command not found
+r=R version 4.3.3 (2024-02-29) -- "Angel Food Cake"
+gdal=GDAL 3.13.0dev-f3d0f4063d572cf8d2ed3795afcb892096a295e3, released 2026/01/28
+docker=environment/capture_environment.sh: line 22: docker: command not found

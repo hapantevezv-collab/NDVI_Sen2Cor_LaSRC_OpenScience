@@ -1,0 +1,6 @@
+source_name	provider	access_method	public_redistribution	role_in_study
+Sentinel-2 Level-1C	Copernicus Data Space Ecosystem	EODAG/API	No source scenes redistributed	TOA input imagery
+Sentinel-2 Level-2A harmonized collection	Google Earth Engine	COPERNICUS/S2_SR_HARMONIZED	No source scenes redistributed	Sen2Cor-derived surface reflectance
+Atmospheric auxiliary data	U.S. Geological Survey	Machine-to-Machine API	No auxiliary source files redistributed	LaSRC atmospheric correction
+Continental ecosystems and land cover	IDEAM	Official geospatial services	Refer to provider terms	Study-area ecological characterization
+Land-use management polygon inventory	Sustainable Cattle Ranching project	Project-governed dataset	Restricted	Spatial units and land-use categories

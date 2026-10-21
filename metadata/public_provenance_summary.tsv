@@ -1,0 +1,6 @@
+component	public_status	provenance_note
+Manuscript	Public	Canonical Quarto source, bibliography, and journal template resources.
+Derived tables	Public	English-normalized summary statistics; no farm-boundary geometries are included.
+Analysis and figure code	Public	Curated scripts with English public filenames.
+Source workspace inventories	Local only	Absolute-path inventories retained under local_only/provenance.
+Farm-boundary geometries	Restricted	Excluded from public release under project data-governance conditions.

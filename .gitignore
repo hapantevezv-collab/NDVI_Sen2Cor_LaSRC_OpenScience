@@ -1,0 +1,47 @@
+# Local/private material
+local_only/
+data/restricted/*
+!data/restricted/README.md
+!data/restricted/restricted_data_manifest.tsv
+config/project_config.local.yml
+
+# Credentials and secrets
+*.token
+*.credentials
+credentials
+.env
+.Renviron
+.Rhistory
+.python_history
+
+# Build and cache output
+_render*/
+.quarto/
+.cache/
+__pycache__/
+*.pyc
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*-eps-converted-to.pdf
+
+# Large raw imagery and intermediate rasters
+data/raw/
+data/interim/
+*.SAFE/
+*.tif
+*.tiff
+*.jp2
+*.nc
+*.hdf
+*.h5
+
+# Office temporary files
+~$*
+
+# Vector figures with exact farm geometries (regenerate locally with authorized data)
+manuscript/source/figures/figure_01_study_area.pdf
+manuscript/source/figures/figure_01_study_area.svg
+manuscript/source/figures/figure_03_ndvi_comparison.pdf

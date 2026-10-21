@@ -1,0 +1,12 @@
+container_id=0988135c39ea
+analysis_image=image_sig_unal:final
+analysis_image_id=sha256:e56f77c85c61efafbdb8216015a3b9dff5784cfb31f010e9258376ddcaeb4fa3
+analysis_image_note=locally built image (not published to a registry)
+lasrc_image=registry.gitlab.com/floriandeboissieu/sen2lasrc/lasrc-fmask:latest
+lasrc_image_digest=sha256:14fcc58ac2bdd1ac792782cfad4a8e48669859cf76e336dba9bde5a4be7dce24
+lasrc_image_pinned_reference=registry.gitlab.com/floriandeboissieu/sen2lasrc/lasrc-fmask@sha256:14fcc58ac2bdd1ac792782cfad4a8e48669859cf76e336dba9bde5a4be7dce24
+sen2lasrc_version=2.0.2
+lasrc_version=3.2.0
+eodag_version=3.10.2
+recorded_utc=2026-10-15T00:09:55Z
+source=docker inspect / docker images --digests on Docker Desktop host (Windows)

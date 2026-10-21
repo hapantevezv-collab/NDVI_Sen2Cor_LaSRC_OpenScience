@@ -1,0 +1,117 @@
+% Quarto/Pandoc template for the MDPI class (Remote Sensing)
+% Generated for ARTICLE_NDVI_V10_A3_MDPI.qmd
+\documentclass[remotesensing,article,submit,pdftex,oneauthor]{Definitions/mdpi}
+
+\firstpage{1}
+\makeatletter
+\setcounter{page}{\@firstpage}
+\makeatother
+\pubvolume{1}
+\issuenum{1}
+\articlenumber{0}
+\pubyear{2026}
+\copyrightyear{2026}
+\datereceived{}
+\daterevised{}
+\dateaccepted{}
+\datepublished{}
+
+% Packages required by Pandoc output but not loaded by mdpi.cls
+\usepackage{longtable}
+\usepackage{fancyvrb}
+\usepackage{framed}
+\usepackage{fvextra}
+\usepackage{textcomp}
+\usepackage{upquote}
+\setkeys{Gin}{keepaspectratio}
+
+
+% CLEAN_PREPUBLICATION_PAGE_STYLE_V13
+% Retain the MDPI manuscript layout while suppressing the class-generated
+% placeholder DOI and automatic submission-date text.
+\makeatletter
+
+\fancypagestyle{plain}{%
+  \fancyhf{}%
+  \fancyfoot[C]{%
+    \fontsize{8}{8}\selectfont
+    \thepage\ of \pageref*{LastPage}%
+  }%
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\fancyhead[R]{%
+  \fontsize{8}{8}\selectfont
+  \thepage\ of \pageref*{LastPage}%
+}
+
+\lhead{}
+\chead{}
+\rfoot{}
+\cfoot{}
+\lfoot{}
+
+\makeatother
+
+% Pandoc compatibility
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\providecommand{\pandocbounded}[1]{#1}
+\newcommand{\passthrough}[1]{#1}
+
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+
+% CSL compatibility (normally unused because natbib is selected)
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2]
+ {\begin{list}{}{
+   \setlength{\itemindent}{0pt}
+   \setlength{\leftmargin}{0pt}
+   \setlength{\parsep}{0pt}
+   \ifodd #1
+     \setlength{\leftmargin}{\cslhangindent}
+     \setlength{\itemindent}{-1\cslhangindent}
+   \fi}}
+ {\end{list}}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\dimexpr\linewidth-\csllabelwidth\relax}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+% Metadata
+\Title{$title$}
+\Author{$if(mdpi-author)$$mdpi-author$$else$$for(author)$$author.name$$sep$, $endfor$$endif$}
+\AuthorNames{$if(mdpi-author-names)$$mdpi-author-names$$else$$for(author)$$author.name$$sep$, $endfor$$endif$}
+\address{$mdpi-address$}
+$if(mdpi-correspondence)$
+\corres{$mdpi-correspondence$}
+$endif$
+$if(mdpi-orcid-a)$
+\newcommand{\orcidauthorA}{$mdpi-orcid-a$}
+$endif$
+\abstract{$abstract$}
+\keyword{$for(keywords)$$keywords$$sep$; $endfor$}
+
+\begin{document}
+
+$body$
+
+\begin{adjustwidth}{-\extralength}{0cm}
+\reftitle{References}
+$if(mdpi-bibliography)$
+\bibliography{$mdpi-bibliography$}
+$else$
+$if(bibliography)$
+\bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
+$endif$
+$endif$
+\end{adjustwidth}
+
+\end{document}

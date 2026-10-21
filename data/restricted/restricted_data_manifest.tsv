@@ -1,0 +1,3 @@
+asset_type	local_path_redacted	reason_restricted	data_controller	access_procedure
+farm_boundaries	data/PO_LDO_EI_2019.shp (22 farms, 23 features)	Farm-boundary geometries of private properties participating in the SCR project	Sustainable Cattle Ranching project (Proyecto Ganaderia Colombiana Sostenible): FEDEGAN-FNG, CIPAV, Fondo Accion, The Nature Conservancy, World Bank	Request to the SCR project partners; not redistributed by the author
+management_polygons	data/PGO_EI_2019.shp (2019 inventory; 143 features used, 141 analytical keys)	Land-use management polygons of private farms	Sustainable Cattle Ranching project (Proyecto Ganaderia Colombiana Sostenible)	Request to the SCR project partners; geometry provenance documented in geometry_manifest.json (hashes only)
