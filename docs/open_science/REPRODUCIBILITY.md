@@ -12,7 +12,7 @@ The public repository reproduces manuscript rendering, final figures, and report
 2. Run `bash environment/capture_environment.sh` inside the analysis container.
 3. Verify `data/derived/` against the release checksums.
 4. Generate publication figures with the scripts in `code/figures/` (`figure_01` … `figure_05`; `fig2_preflight.py` checks Figure 2 without writing files).
-5. Render the manuscript from `manuscript/source/` with `render_ARTICLE_NDVI_V14_A3_MDPI.sh`.
+5. Render the manuscript from `manuscript/source/` with `render_ARTICLE_NDVI_V15_A3_RSASE.sh` (Elsevier/RSASE version; the earlier MDPI version renders with `render_ARTICLE_NDVI_V14_A3_MDPI.sh`).
 6. Verify file integrity with `sha256sum -c release/SHA256SUMS.txt`.
 7. Build Zenodo packages with `python3 code/utilities/build_zenodo_packages.py --root . --version 1.0.0`.
 

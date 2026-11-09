@@ -45,3 +45,10 @@ data/interim/
 manuscript/source/figures/figure_01_study_area.pdf
 manuscript/source/figures/figure_01_study_area.svg
 manuscript/source/figures/figure_03_ndvi_comparison.pdf
+
+# Elsevier/RSASE render byproducts and submission package
+manuscript/source/*.bak_*
+manuscript/source/*.spl
+manuscript/source/elsarticle.cls
+manuscript/source/elsarticle-harv.bst
+manuscript/submission_RSASE/

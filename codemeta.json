@@ -3,7 +3,7 @@
   "@type": "SoftwareSourceCode",
   "name": "Category-Specific Sentinel-2 NDVI Differences among Level-1C, Sen2Cor, and LaSRC in a Tropical Silvopastoral Landscape: Open Science Reproducibility Compendium",
   "description": "Reproducibility compendium for a Sentinel-2 NDVI method-comparison study across Level-1C/TOA, Sen2Cor L2A/SR, and LaSRC L2A/SR observations in a tropical silvopastoral landscape of the Colombian Orinoco Piedmont (2019-2020; 1,797 common polygon-by-date observations from 106 management polygons on 22 farms). Farm-boundary and management-polygon geometries are governed by the Sustainable Cattle Ranching project and are not publicly distributed.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "datePublished": "2026-10-21",
   "dateModified": "2026-11-09",
   "codeRepository": "https://github.com/hapantevezv-collab/NDVI_Sen2Cor_LaSRC_OpenScience",

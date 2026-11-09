@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.2] - 2026-11-09
+
+### Changed
+- Manuscript retargeted to *Remote Sensing Applications: Society and Environment* (Elsevier). The *Remote Sensing* (MDPI) submission was not completed.
+- Added the Elsevier-formatted manuscript source (`manuscript/source/ARTICLE_NDVI_V15_A3_RSASE.qmd`, `references-v15-elsevier.bib`, Quarto extension `quarto-journals/elsevier` 0.4.5) and `render_ARTICLE_NDVI_V15_A3_RSASE.sh`; the V14 (MDPI) source is kept for provenance.
+- Corrected typographical errors (merged words) in the abstract and back matter of V15.
+
+### Unchanged
+- Data, code, statistical results, and figures.
+
 ## [1.0.1] - 2026-11-09
 
 - Added the Zenodo concept DOI (10.5281/zenodo.24089625) to the manuscript Data Availability Statement, README, CITATION.cff and codemeta.json.
@@ -8,7 +18,7 @@
 
 ## [1.0.0] - 2026-10-21
 
-First public release, accompanying the manuscript submitted to *Remote Sensing* (MDPI).
+First public release, accompanying the manuscript prepared for *Remote Sensing* (MDPI) (not submitted; see 1.0.2).
 
 - Canonical analysis contract: 1,810 exact-date matches → 1,809 after cross-product QC → **1,797** common observations (≥10 valid pixels in L1C and LaSRC), **106** management polygons, **22** farms (2019: 668; 2020: 1,129). Retires the earlier 91-polygon / 1,809-record dataset.
 - Farm-cluster bootstrap (B = 2,000, seed 2026) for all confidence intervals; annual (2019, 2020) and pooled agreement tables.

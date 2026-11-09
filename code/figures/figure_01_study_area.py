@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Figure 1 R4 CIERRE — Study area in cascade of scales.
-Article A3, MDPI Remote Sensing.
+Article A3 (target journal: Remote Sensing Applications: Society and Environment, Elsevier).
 Instruction basis: INSTRUCCION_FIGURAS_V2_REF_CHRAIBI.md (2026-10-15/20)
 with data/palette/QC inherited from INSTRUCCION_FIGURA1_V1.md.
 
