@@ -1,6 +1,6 @@
 # Category-Specific Sentinel-2 NDVI Differences among Level-1C, Sen2Cor, and LaSRC in a Tropical Silvopastoral Landscape: Open Science Reproducibility Compendium
 
-**Version:** 1.0.0 · **Author:** Heiber Alexander Pantevez Villamil ([ORCID 0000-0003-1797-0057](https://orcid.org/0000-0003-1797-0057)) · **DOI:** assigned by Zenodo at release
+**Version:** 1.0.1 · **Author:** Heiber Alexander Pantevez Villamil ([ORCID 0000-0003-1797-0057](https://orcid.org/0000-0003-1797-0057)) · **DOI (all versions):** [10.5281/zenodo.24089625](https://doi.org/10.5281/zenodo.24089625)
 
 This repository contains the manuscript source, analysis and figure code, derived summary data, figures, metadata, provenance and reproducibility documentation supporting the comparison of Sentinel-2 NDVI among Level-1C/TOA, Sen2Cor L2A/SR and LaSRC L2A/SR.
 
@@ -52,5 +52,5 @@ Generative AI assistants (Claude, Anthropic; ChatGPT, OpenAI) were used between 
 ```bash
 bash environment/capture_environment.sh
 sha256sum -c release/SHA256SUMS.txt
-python3 code/utilities/build_zenodo_packages.py --root . --version 1.0.0
+python3 code/utilities/build_zenodo_packages.py --root . --version 1.0.1
 ```

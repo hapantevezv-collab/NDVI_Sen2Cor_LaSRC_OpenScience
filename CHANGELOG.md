@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1] - 2026-11-09
+
+- Added the Zenodo concept DOI (10.5281/zenodo.24089625) to the manuscript Data Availability Statement, README, CITATION.cff and codemeta.json.
+- Acknowledged the SCR data team and the SNAPP Colombia Sustainable Cattle Ranching Working Group.
+- Version 1.0.0: 10.5281/zenodo.24089626.
+
 ## [1.0.0] - 2026-10-21
 
 First public release, accompanying the manuscript submitted to *Remote Sensing* (MDPI).
