@@ -332,12 +332,13 @@ integrates EODAG, Fmask, and s2cloudless in a Docker workflow
 \citep{deBoissieu2024, Qiu2019, SentinelHubS2Cloudless}. The processing
 image was the \texttt{lasrc-fmask} image of the \texttt{sen2lasrc}
 project, pinned by its SHA-256 digest (\texttt{14fcc58ac2bd…}; the full
-digest is recorded in \texttt{environment/container-provenance.txt} and
-in the Zenodo deposit). MODIS-based fused atmospheric auxiliary data
-(MODIS\_FUSED) for 2019-2020 were retrieved through the USGS
-Machine-to-Machine (M2M) API \citep{USGS2026M2M}. Surface reflectance
-was stored as scaled \texttt{INT16}; pixels assigned the product no-data
-value were removed before NDVI calculation.
+digest is recorded in \texttt{environment/container-provenance.txt} of
+the Zenodo deposit; see the Data Availability Statement). MODIS-based
+fused atmospheric auxiliary data (MODIS\_FUSED) for 2019-2020 were
+retrieved through the USGS Machine-to-Machine (M2M) API
+\citep{USGS2026M2M}. Surface reflectance was stored as scaled
+\texttt{INT16}; pixels assigned the product no-data value were removed
+before NDVI calculation.
 
 \subsection{Cloud and Shadow Screening}\label{sec-masks}
 
@@ -976,17 +977,22 @@ Statement}\label{data-availability-statement}
 
 The derived statistical tables, analysis code, input-scene and
 auxiliary-data manifests, and computational-environment records are
-openly available in Zenodo at {[}ZENODO DOI --- to be assigned at
-release{]}. The LaSRC processing image is the \texttt{lasrc-fmask} image
-of the \texttt{sen2lasrc} GitLab registry
+openly available in Zenodo at
+\url{https://doi.org/10.5281/zenodo.24089625} (all versions; version
+1.0.1 accompanies this article). The analysis code is developed at
+\url{https://github.com/hapantevezv-collab/NDVI_Sen2Cor_LaSRC_OpenScience}.
+The LaSRC processing image is the \texttt{lasrc-fmask} image of the
+\texttt{sen2lasrc} GitLab registry
 (registry.gitlab.com/floriandeboissieu/sen2lasrc), pinned by SHA-256
-digest \texttt{14fcc58ac2bd…}; the full digest is recorded in the Zenodo
-deposit. Sentinel-2 Level-1C and Level-2A products are available from
-the Copernicus Data Space Ecosystem and Google Earth Engine.
-Farm-boundary and management-polygon geometries are subject to the
-data-governance conditions of the Sustainable Cattle Ranching project
-and are therefore not publicly distributed; their identity and
-processing are documented in the deposited geometry manifest.
+digest \texttt{14fcc58ac2bd…}; the full digest is recorded in
+\texttt{environment/container-provenance.txt} of the Zenodo deposit.
+Sentinel-2 Level-1C and Level-2A products are available from the
+Copernicus Data Space Ecosystem and Google Earth Engine. Farm-boundary
+and management-polygon geometries are subject to the data-governance
+conditions of the Sustainable Cattle Ranching project and are therefore
+not publicly distributed; their identity and processing are documented
+in the deposited geometry manifest, and access requests should be
+directed to the SCR project partners.
 
 \section*{Acknowledgments}\label{acknowledgments}
 \addcontentsline{toc}{section}{Acknowledgments}
